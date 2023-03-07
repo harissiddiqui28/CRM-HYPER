@@ -1,0 +1,232 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    display:flex;
+    align-content: center;
+    justify-content: space-between;
+    background-color:rgb(38, 38, 66);
+    color:grey;
+align-items: center;
+}
+.search input{
+    padding: 10px 40px 10px 40px;
+    background-color: rgb(83, 83, 102);
+    border: none;
+    color: #fff;
+}
+button{
+    padding: 10px 10px 10px 10px;
+    margin-right: 200px;
+    background-color:rgb(7, 117, 160);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+span{
+    padding-bottom: 5px;
+}
+.second-nav{
+    display: flex;
+align-content: center;
+    justify-content: space-around;
+    color: gray;
+    background-color: #fff;
+    margin-top: 5px;
+    align-items: center;
+    height: 60px;
+}
+body{
+    background-color: aliceblue;
+}
+.second-nav .dashboard{
+    color: rgb(80, 185, 226);
+}
+.head-left{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-top: 10px;
+}
+.head-left h4{
+    margin-right: 15px;
+}
+.right-side{
+padding-right: 1050px;
+}
+.headings {
+    margin-top: 10px;
+    color: grey;
+    font-weight: 100;
+    font-size: larger;
+}
+.box{
+    background-color: #fff;
+    border: 1px solid #fff;
+    display: flex;
+    margin-top: 20px;
+}
+.box .content p{
+    margin-top: 20px;
+    color:aquamarine;
+    font-size: smaller;
+    font-weight: 800;
+}
+.box .content h4{
+    margin-top: 10px;
+}
+.box .content{
+    margin-left: 20px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 2rem;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.big-box .head{
+    display: flex;
+    margin-top: 30px;
+}
+.big-box .head .material-symbols-outlined{
+    margin-left: 350px;
+}
+.big-box .foot{
+    display: flex;
+}
+.big-box .foot .bottum1{
+    margin-left: 60px;
+}
+.big-box .foot .bottum2{
+    margin-left: 120px;
+}
+.big-box .foot .bottum3{
+    margin-left: 100px;
+}
+.big-box{
+    
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-gap: 2rem;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.big-box .grid1{
+    background-color: #fff;
+    color: grey;
+}
+.big-box .grid2{
+    
+    background-color: #fff;
+}
+.big-box .grid1 .head p {
+    margin-left: 20px;
+}
+.big-box .grid1 .CIRCLE{
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.left-btn{
+    display: flex;
+    justify-content: left;
+    margin-left: 450px;
+    
+}
+.left-btn button{
+    margin-right: 5px;
+    background-color: rgb(221, 214, 214);
+    color: grey;
+}
+.grid2 .head p{
+    margin-left: auto;
+    color: grey;
+}
+.grid2 .CIRCLE2{
+    margin-top: 20px;
+}
+.grid2 .foot .bottum5{
+    margin-left: 250px;
+    color: grey;
+}
+.more{
+    display: flex;
+}
+.more span{
+    margin-left: 280px;
+}
+.todo{
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-right: 20px;
+    background-color: #fff;
+    width: 335px;
+    padding-bottom: 30px;
+}
+.todo p{
+    padding-top: 20px;
+}
+.last-1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 2rem;
+    padding-left: 40px;
+    padding-right: 0px;
+    height: 600px;
+}
+.footer{
+display: flex;
+width: 1200px;
+height: 50px;
+}
+ .links{
+    display: flex;
+    justify-content:space-between;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
